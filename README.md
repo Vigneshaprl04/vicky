@@ -1,2 +1,0 @@
-# vicky
-my project
